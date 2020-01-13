@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 50dd9e7bcbc89904e98c9c3e297fb01b
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 7e04f9d4d457248d286960b3916b9262
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 4a34cecc69f621b4f9b1799d760de491
+  - enabled: 1
+    path: Assets/Scenes/NextLevel.unity
+    guid: 27032400b67a97f4a92dffb4d28d993b
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 4ae7884feffe740dd9c1f16daa3f4724
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 151bb36452b725a4abd0b03025b852a8
+  - enabled: 1
+    path: Assets/Scenes/ImageCredits.unity
+    guid: dbd15d560bd434e87ba1e95729aa61f7
+  - enabled: 1
+    path: Assets/Scenes/OriginalImages.unity
+    guid: c5fb0b13c3df94dcfb98048e27c6174a
+  - enabled: 1
+    path: Assets/Scenes/SoundCredits.unity
+    guid: ad05dd67c1df14ecda1fa693c0e8b216
+  - enabled: 1
+    path: Assets/Scenes/WorksCited.unity
+    guid: b9d0632408ce6484697e9fe5db5dfd0d
+  m_configObjects: {}
